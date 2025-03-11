@@ -1,0 +1,16 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "An advanced AI chatbot using OpenAI API.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "openai": "^3.0.0"
+  }
+}
